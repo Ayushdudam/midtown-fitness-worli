@@ -1,0 +1,20 @@
+﻿{
+  "name": "midtown-fitness-worli",
+  "version": "1.0.0",
+  "description": "Midtown Fitness Worli Mumbai - High-Performance Prototype Web Application",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "gym",
+    "fitness",
+    "worli",
+    "mumbai",
+    "mma",
+    "physiotherapy",
+    "steam"
+  ],
+  "author": "Ayush Dudam",
+  "license": "MIT"
+}

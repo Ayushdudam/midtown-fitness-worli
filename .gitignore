@@ -1,0 +1,13 @@
+﻿# Ignore personal MP3 music files
+*.mp3
+
+# Dependencies and caches
+node_modules/
+.vercel/
+.npm/
+
+# OS and temporary files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
